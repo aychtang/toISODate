@@ -1,0 +1,14 @@
+{
+  "name": "datestamp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "toISODate.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "tape": "~2.4.2"
+  }
+}
